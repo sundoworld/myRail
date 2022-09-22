@@ -1,0 +1,7 @@
+MIDlet-1: myRail,,myRail.myRail
+MIDlet-Jar-URL: myRail.jar
+MIDlet-Name: myRail
+MIDlet-Vendor: SunWorld Inc..
+MIDlet-Version: 1.0.10
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
